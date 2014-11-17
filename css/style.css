@@ -1,0 +1,58 @@
+/* @author  -   Channaveer Hakari
+ * @email   -   channaveer888@gmail.com
+ * @Version -	1.0
+ * @Date    -   10/11/2014
+ */
+
+body{
+    font-size: 12px;
+    font-family: helvetica, arial, sans-serif;
+    color: #555;
+}
+
+.wrapper{
+    width: 700px;
+    margin: 0 auto;
+    border: 1px solid #DDD;
+}
+
+.content,.footer{
+    padding: 10px 20px 20px 20px;
+}
+
+.bg-gray{
+    background: #EEE;
+}
+
+.padding5{
+    padding: 5px;
+}
+
+.margin-top0{
+    margin-top: 0px;
+}
+
+#drive_url,#converted_url{
+    width: 655px;    
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 10px 0px;
+}
+
+.loading{
+    display: none;
+    font-weight: normal;
+}
+
+.font-small{
+    font-size:12px;
+}
+
+.font-gray{
+    color: #555;
+}
+
+.align-center{
+    text-align: center;
+}
