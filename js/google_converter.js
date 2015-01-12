@@ -34,5 +34,6 @@ $('#convert').on('click',function(){
         });
     }else{
         alert('Add the URL');
+        $('.loading').hide();
     }
 });
