@@ -19,11 +19,11 @@
         </div>
         <div class="content">
             <div>
-                Convert the Google Drive File Links like (PDF, DOC, XLS) to a downloadable links
+                Convert the Google Drive File Links [PDF, DOC, XLS, Images, ZIP] to a downloadable links
             </div>
             <br />
             <div>
-                <strong>Directions</strong> - Upload PDF, DOC, XLS files to your Google Drive, right click and select share->share, if you are not able to find the sharable link then click on the <strong>'Get sharable link'</strong> to top right corner with <strong>'chain icon'</strong>,
+                <strong>Directions</strong> - Upload PDF, DOC, XLS, Images, ZIP files to your Google Drive, right click and select share->share, if you are not able to find the sharable link then click on the <strong>'Get sharable link'</strong> to top right corner with <strong>'chain icon'</strong>,
                 now you will get the sharable link but cannot force to download it. Paste the sharable link input box provided below and click button <strong>Convert to Downloadable Link</strong> to get the downloadable link, which you can share with anyone.
             </div>
             <br />
