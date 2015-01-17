@@ -1,7 +1,7 @@
 Google Drive Links Converter
 ===========================
 
-Convert the Google Drive File Links like (PDF, DOC, XLS) to a downloadable links.
+Convert the Google Drive File Links [PDF, DOC, XLS, Images, Zip] to a downloadable links.
 
 Directions
 ----------
